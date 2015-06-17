@@ -1,8 +1,14 @@
 var disqus_shortname = 'betterjavadocexample';
 
 (function() {
-    div = document.createElement('div');
+    var div = document.createElement('div');
     div.setAttribute('id', 'disqus_thread');
+
+    var img = document.createElement('img');
+    img.setAttribute('class', 'bj-ad-img');
+    img.setAttribute('src', '//lh5.ggpht.com/NFYFP2H9CCP50vAQNLa7AtCj_mbbYmOzY978fZqd31oL5qOdvXgxU3KW8ek2VgvIOvTqWY0=w728');
+
+    document.body.appendChild(img);
     document.body.appendChild(div);
 })();
 
