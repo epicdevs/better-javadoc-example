@@ -1,5 +1,11 @@
 #disqus_thread {
     position: relative;
-    padding: 50px;
-    margin-top: 70px
+    top: 25px;
+    padding: 0 50px;
+}
+
+.bj-ad-img {
+    display: block;
+    margin: 0 auto;
+    padding-top: 20px;
 }
