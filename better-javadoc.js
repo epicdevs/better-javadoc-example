@@ -1,4 +1,4 @@
-var disqus_shortname = 'ghjavadoctest';
+var disqus_shortname = 'betterjavadocexample';
 
 (function() {
     div = document.createElement('div');
